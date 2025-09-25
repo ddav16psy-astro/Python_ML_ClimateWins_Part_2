@@ -44,13 +44,13 @@ Pleasant Weather answers dataset: Origin not disclosed to the author.  (Red flag
 
 •	Supervised & Unsupervised learning: KNN, DT, RF, ANN, CNN, GAN, RNN & LSTM models deployed for classification prediction exercises
 
-•	Hyperparameter optimization via grid search, random search, Bayesian optimization, model fine-tuning & regularization to minimize overfit on training data
+•	Hyperparameter optimization via grid search, random search and Bayesian optimization; Model fine-tuning & regularization to minimize overfit on training data
 
 •	Data visualized in Python, varying types of plots
 
 #### Attribution
 
-OpenAI's ChatGPT, powered by GPT-4o, was enlisted for ML model customization, fine-tuning and regularization Python code and de-bugging; explanation of ML concepts, underlying math and methods; and for constructive criticism on model output.
+OpenAI's ChatGPT, powered by GPT-4o, was enlisted for ML model customization, fine-tuning and regularization via Python code and de-bugging of same; explanation of ML concepts, underlying math and methods; and for constructive criticism on model output.
 
 #### Key Finding
 
