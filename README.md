@@ -64,7 +64,7 @@ As per ClimateWins requirements, the final report presents three "thought experi
 
 #### Folders
 
-•	01 Datasets: Original, processed and split data files.  Original weather data is in the "Dataset-weather-prediction-dataset-processed.xlsx" Excel file.  Pleasant/Unpleasant Weather answers data is in the "Dataset-Answers-Weather_Prediction_Pleasant_Weather.xlsx" Excel file of unknown provenance.
+•	Datasets: In various labeled folders.  Original weather data is in the "Dataset-weather-prediction-dataset-processed.xlsx" Excel file.  Pleasant/Unpleasant Weather answers data is in the "Dataset-Answers-Weather_Prediction_Pleasant_Weather.xlsx" Excel file of unknown provenance.
 
 •	02 Scripts: Python scripts for sequential stages of the project's second half, differentiated by topics.
 
