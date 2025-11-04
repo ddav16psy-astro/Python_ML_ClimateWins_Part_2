@@ -16,6 +16,10 @@ Omitted (from project second half analysis): Roma, Gdansk, Tours.
 
 For the final report:
 
+Continue testing different ML models (neural networks, Random Forest) to reveal the best binary classification prediction model for the European daily weather labels.
+
+Create (but do not run) three thought experiments to address the following needs:
+
 •	Identify European weather patterns outside the regional norm
 
 •	Determine if unusual weather patterns are increasing
